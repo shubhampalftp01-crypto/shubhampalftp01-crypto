@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Pal
 
-<!--
-**shubhampalftp01-crypto/shubhampalftp01-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 📊 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+I am currently learning Python, SQL, Data Analytics and Data Science.
+I enjoy building practical projects and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQL
+- Excel
+- Data Analytics
+- Pandas
+- NumPy
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Python Programming
+- Data Analysis
+- Statistics
+- Machine Learning
+
+## 🚀 My Goal
+
+To become a skilled Data Scientist and build real-world
+data-driven projects.
+
+## 🔗 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
+
+---
+
+⭐ Thanks for visiting my profile!
