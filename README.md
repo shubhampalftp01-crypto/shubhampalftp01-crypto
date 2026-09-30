@@ -28,8 +28,7 @@ To become a skilled Data Scientist and build real-world
 data-driven projects.
 
 ## 🔗 Connect With Me
-
-[LinkedIn](YOUR_LINKEDIN_URL)
+https://www.linkedin.com/in/shubham-pal-b4940738a?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
